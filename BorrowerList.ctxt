@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BorrowerList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BorrowerList\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BorrowerList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BorrowerList\r\n
+comment2.params=borrower
+comment2.target=void\ addBorrower(Borrower)
+comment3.params=
+comment3.target=int\ getNumberOfBorrowers()
+comment4.params=borrowerEntry
+comment4.target=void\ getBorrower(int)
+comment5.params=libraryNumber
+comment5.target=boolean\ getBorrower(java.lang.String)
+comment6.params=
+comment6.target=void\ getAllBorrowers()
+comment7.params=borrowerEntry
+comment7.target=void\ removeBorrower(int)
+comment8.params=libraryNumber
+comment8.target=boolean\ removeBorrower(java.lang.String)
+comment9.params=libraryNumber
+comment9.target=int\ search(java.lang.String)
+numComments=10
